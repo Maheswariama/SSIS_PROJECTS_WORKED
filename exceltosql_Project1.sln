@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "sqltoexcel_mult_Project1", "exceltosql_Project1\sqltoexcel_mult_Project1.dtproj", "{2CBAF915-697F-4BB3-83AF-A684CC3FF43A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBAF915-697F-4BB3-83AF-A684CC3FF43A}.Development|Default.ActiveCfg = Development
+		{2CBAF915-697F-4BB3-83AF-A684CC3FF43A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
